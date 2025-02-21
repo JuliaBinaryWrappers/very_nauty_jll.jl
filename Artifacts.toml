@@ -1,0 +1,160 @@
+[[very_nauty]]
+arch = "aarch64"
+git-tree-sha1 = "afd6376675392e2d94d2ad4d35a240b71a2acc47"
+os = "macos"
+
+    [[very_nauty.download]]
+    sha256 = "f28df22baa267daac2aa81eae456213d5b051b4be953c615d8edb0f3c5a2e522"
+    url = "https://github.com/JuliaBinaryWrappers/very_nauty_jll.jl/releases/download/very_nauty-v1.1.1+0/very_nauty.v1.1.1.aarch64-apple-darwin.tar.gz"
+[[very_nauty]]
+arch = "aarch64"
+git-tree-sha1 = "11fb2cf35d718eadef4b98ced0fe27aacb47e4aa"
+libc = "glibc"
+os = "linux"
+
+    [[very_nauty.download]]
+    sha256 = "7917e0939bd3140f9968458479087f1c343faa085ce796a49f80d761ac965bdc"
+    url = "https://github.com/JuliaBinaryWrappers/very_nauty_jll.jl/releases/download/very_nauty-v1.1.1+0/very_nauty.v1.1.1.aarch64-linux-gnu.tar.gz"
+[[very_nauty]]
+arch = "aarch64"
+git-tree-sha1 = "29062037df54779d4a7d48e35a374b2a7dd357bc"
+libc = "musl"
+os = "linux"
+
+    [[very_nauty.download]]
+    sha256 = "d3fdeab2238e276fc586f71f51b07740400328ee9fa81df910bdc469f1370ba6"
+    url = "https://github.com/JuliaBinaryWrappers/very_nauty_jll.jl/releases/download/very_nauty-v1.1.1+0/very_nauty.v1.1.1.aarch64-linux-musl.tar.gz"
+[[very_nauty]]
+arch = "aarch64"
+git-tree-sha1 = "8d1d0fb7e336b7726cc5bbc7eb0e843d58737c34"
+os = "freebsd"
+
+    [[very_nauty.download]]
+    sha256 = "152ab05abd124af0cce06c0441102bace998ac94216fc6daa95485bd21455b75"
+    url = "https://github.com/JuliaBinaryWrappers/very_nauty_jll.jl/releases/download/very_nauty-v1.1.1+0/very_nauty.v1.1.1.aarch64-unknown-freebsd.tar.gz"
+[[very_nauty]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "18fc93f42323e7e6c673de0f2661a715e7efd692"
+libc = "glibc"
+os = "linux"
+
+    [[very_nauty.download]]
+    sha256 = "4f924e4373d8918bafae5c2d348596ec9e4f4a0183b495834f32e68667c479e9"
+    url = "https://github.com/JuliaBinaryWrappers/very_nauty_jll.jl/releases/download/very_nauty-v1.1.1+0/very_nauty.v1.1.1.armv6l-linux-gnueabihf.tar.gz"
+[[very_nauty]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "068c060fce7a900c687fdba3b4c58802a636f17a"
+libc = "musl"
+os = "linux"
+
+    [[very_nauty.download]]
+    sha256 = "7190ef007634a9c3f0b95835150bc10c59fd32fe92057c35818d5eda33f5fa34"
+    url = "https://github.com/JuliaBinaryWrappers/very_nauty_jll.jl/releases/download/very_nauty-v1.1.1+0/very_nauty.v1.1.1.armv6l-linux-musleabihf.tar.gz"
+[[very_nauty]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "40f80a30c6b7a9c48218ebd4fbe206e2a9df3a4c"
+libc = "glibc"
+os = "linux"
+
+    [[very_nauty.download]]
+    sha256 = "65b1ae97e0b7023d6f7270a3e7392a468f9ec3ed5e5c239b8659f486df5acb68"
+    url = "https://github.com/JuliaBinaryWrappers/very_nauty_jll.jl/releases/download/very_nauty-v1.1.1+0/very_nauty.v1.1.1.armv7l-linux-gnueabihf.tar.gz"
+[[very_nauty]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "9f871c7be813acdb90c8c5bfa7268b04305a6e81"
+libc = "musl"
+os = "linux"
+
+    [[very_nauty.download]]
+    sha256 = "02bb7422c6ec899bccf5e934400a2e9c8fd871a017ec55b3946e2c895741dbaf"
+    url = "https://github.com/JuliaBinaryWrappers/very_nauty_jll.jl/releases/download/very_nauty-v1.1.1+0/very_nauty.v1.1.1.armv7l-linux-musleabihf.tar.gz"
+[[very_nauty]]
+arch = "i686"
+git-tree-sha1 = "90b682d321834f907ae8d3cba6deb7eb5bee8a85"
+libc = "glibc"
+os = "linux"
+
+    [[very_nauty.download]]
+    sha256 = "ed6d6bc0ca6a1400ff7d9d48137d7f276312af22d8f22f69dfe41ec663599962"
+    url = "https://github.com/JuliaBinaryWrappers/very_nauty_jll.jl/releases/download/very_nauty-v1.1.1+0/very_nauty.v1.1.1.i686-linux-gnu.tar.gz"
+[[very_nauty]]
+arch = "i686"
+git-tree-sha1 = "2a4608b1facf57e8b0bde28d175d99007e1bef59"
+libc = "musl"
+os = "linux"
+
+    [[very_nauty.download]]
+    sha256 = "289a5964e183c00458ef7e0c85ba95d2342d30c0216c25ab20d2ad406dc9a321"
+    url = "https://github.com/JuliaBinaryWrappers/very_nauty_jll.jl/releases/download/very_nauty-v1.1.1+0/very_nauty.v1.1.1.i686-linux-musl.tar.gz"
+[[very_nauty]]
+arch = "i686"
+git-tree-sha1 = "e780fc93653f73214c7b2a68286f81058d941782"
+os = "windows"
+
+    [[very_nauty.download]]
+    sha256 = "44705438f95ea89e473cba6bd9d4bfc545a212506640abc48df2eef931f52517"
+    url = "https://github.com/JuliaBinaryWrappers/very_nauty_jll.jl/releases/download/very_nauty-v1.1.1+0/very_nauty.v1.1.1.i686-w64-mingw32.tar.gz"
+[[very_nauty]]
+arch = "powerpc64le"
+git-tree-sha1 = "a3013ec933af310d42f7ac2afae2987bd80d00df"
+libc = "glibc"
+os = "linux"
+
+    [[very_nauty.download]]
+    sha256 = "e424f798260dc335894038420e3bc5781427886f203f26d97637382055d80dfc"
+    url = "https://github.com/JuliaBinaryWrappers/very_nauty_jll.jl/releases/download/very_nauty-v1.1.1+0/very_nauty.v1.1.1.powerpc64le-linux-gnu.tar.gz"
+[[very_nauty]]
+arch = "riscv64"
+git-tree-sha1 = "afa250bcc5bfefc5321cdd2ea2e7336061bf64ba"
+libc = "glibc"
+os = "linux"
+
+    [[very_nauty.download]]
+    sha256 = "8c548e211ba6ce2b3a66fd2dcbbf0476dcb9a1b3c447d5df23c538f8e33fdc71"
+    url = "https://github.com/JuliaBinaryWrappers/very_nauty_jll.jl/releases/download/very_nauty-v1.1.1+0/very_nauty.v1.1.1.riscv64-linux-gnu.tar.gz"
+[[very_nauty]]
+arch = "x86_64"
+git-tree-sha1 = "dac0671c55e9214b8d8cbd968571e44e8dfa0bbc"
+os = "macos"
+
+    [[very_nauty.download]]
+    sha256 = "49d6442c7b72d958cab4e3a7292cd17b2701a196722ec97907fe186f58a58a18"
+    url = "https://github.com/JuliaBinaryWrappers/very_nauty_jll.jl/releases/download/very_nauty-v1.1.1+0/very_nauty.v1.1.1.x86_64-apple-darwin.tar.gz"
+[[very_nauty]]
+arch = "x86_64"
+git-tree-sha1 = "f16f84ad569272d399c484d5020c698ce1e84fc0"
+libc = "glibc"
+os = "linux"
+
+    [[very_nauty.download]]
+    sha256 = "cfcf02fa862fa30deb31acee9a90f7c1d403955e1ee8669a4b9fb46b46cf6e49"
+    url = "https://github.com/JuliaBinaryWrappers/very_nauty_jll.jl/releases/download/very_nauty-v1.1.1+0/very_nauty.v1.1.1.x86_64-linux-gnu.tar.gz"
+[[very_nauty]]
+arch = "x86_64"
+git-tree-sha1 = "c819c1001ee86b2d2f5722f719f22e0e1dca35bb"
+libc = "musl"
+os = "linux"
+
+    [[very_nauty.download]]
+    sha256 = "b4c6126e9d66fc885a4c36b1addcf116a80442754c49aba9e142a19d1426ef32"
+    url = "https://github.com/JuliaBinaryWrappers/very_nauty_jll.jl/releases/download/very_nauty-v1.1.1+0/very_nauty.v1.1.1.x86_64-linux-musl.tar.gz"
+[[very_nauty]]
+arch = "x86_64"
+git-tree-sha1 = "43f07bc4f81ea24cae29d7af1306bf28ba1a330a"
+os = "freebsd"
+
+    [[very_nauty.download]]
+    sha256 = "e6295d1cf0abfb92000fb534ab8198d3273dab7b586c7580480fa4fc0e17e4de"
+    url = "https://github.com/JuliaBinaryWrappers/very_nauty_jll.jl/releases/download/very_nauty-v1.1.1+0/very_nauty.v1.1.1.x86_64-unknown-freebsd.tar.gz"
+[[very_nauty]]
+arch = "x86_64"
+git-tree-sha1 = "3176256669411d335d7b6e00110b52ffda92cd9d"
+os = "windows"
+
+    [[very_nauty.download]]
+    sha256 = "fbba1e06596e61b7986a786410a0fdae8a1227cc4dc9e66bb2990ffa0cd22d90"
+    url = "https://github.com/JuliaBinaryWrappers/very_nauty_jll.jl/releases/download/very_nauty-v1.1.1+0/very_nauty.v1.1.1.x86_64-w64-mingw32.tar.gz"
